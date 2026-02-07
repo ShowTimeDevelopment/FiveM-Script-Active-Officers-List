@@ -10,9 +10,8 @@ Real-time officer tracking with radio integration, panic button system, and a hi
 ## [Preview](https://youtu.be/HbPCnqT_mRM)
 ## [Discord](https://discord.gg/6WBNdymt8e)
 
-![Preview](https://imgur.com/a/BBKYh09#dRUTUFJ "Preview")
-![Preview](https://imgur.com/a/BBKYh09#gP1XjAw "Preview")
-
+![Preview](https://i.imgur.com/dRUTUFJ.png)
+![Preview](https://i.imgur.com/gP1XjAw.png)
 ## Features
 
 - ✅ **Framework Selection**: Optimized for QBCore and QBox.
