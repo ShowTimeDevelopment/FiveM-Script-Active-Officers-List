@@ -1,0 +1,38 @@
+fx_version 'cerulean'
+game 'gta5'
+lua54 'yes'
+
+author 'ShowTime Development'
+description 'ShowTime Active Officers - Advanced Emergency Services Management System'
+version '1.0.0'
+
+ui_page 'html/index.html'
+
+shared_scripts {
+    'shared/config.lua',
+    'shared/bridge.lua'
+}
+
+client_scripts {
+    'client/cl_main.lua'
+}
+
+server_scripts {
+    '@oxmysql/lib/MySQL.lua',
+    'server/sv_main.lua'
+}
+
+files {
+    'html/index.html',
+    'html/style.css',
+    'html/script.js'
+}
+
+-- Dependencies
+dependencies {
+    'oxmysql'
+}
+
+-- Framework Detection (One of these must be active)
+-- qb-core
+-- qbx_core
