@@ -10,8 +10,8 @@ Real-time officer tracking with radio integration, panic button system, and a hi
 ## [Preview](https://youtu.be/HbPCnqT_mRM)
 ## [Discord](https://discord.gg/6WBNdymt8e)
 
-## https://imgur.com/dRUTUFJ
-## https://imgur.com/gP1XjAw
+https://imgur.com/dRUTUFJ
+https://imgur.com/gP1XjAw
 
 ## Features
 
